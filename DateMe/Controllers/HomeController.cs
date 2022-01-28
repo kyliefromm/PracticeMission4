@@ -13,9 +13,14 @@ namespace DateMe.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        private DateApplicationContext applicationContext { get; set; }
+
+
+
+        public HomeController(ILogger<HomeController> logger, DateApplicationContext someName)
         {
             _logger = logger;
+            applicationContext = someName;
         }
 
         public IActionResult Index()
@@ -32,6 +37,9 @@ namespace DateMe.Controllers
         [HttpPost]
         public IActionResult DatingApplication(ApplicationResponse ar)
         {
+            applicationContext.Add(ar);
+            applicationContext.SaveChanges();
+
             return View("Confirmation", ar);
         }
 

@@ -1199,11 +1199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kyliefromm/Projects/DateMe/DateMe/DateMe.csproj",
+      "projectUniqueName": "/Users/kyliefromm/Documents/GitHub/PracticeMission4/DateMe/DateMe.csproj",
       "projectName": "DateMe",
-      "projectPath": "/Users/kyliefromm/Projects/DateMe/DateMe/DateMe.csproj",
+      "projectPath": "/Users/kyliefromm/Documents/GitHub/PracticeMission4/DateMe/DateMe.csproj",
       "packagesPath": "/Users/kyliefromm/.nuget/packages/",
-      "outputPath": "/Users/kyliefromm/Projects/DateMe/DateMe/obj/",
+      "outputPath": "/Users/kyliefromm/Documents/GitHub/PracticeMission4/DateMe/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kyliefromm/.nuget/NuGet/NuGet.Config"

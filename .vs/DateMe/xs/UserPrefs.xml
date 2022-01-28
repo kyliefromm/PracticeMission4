@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{4316E3C9-56C9-454B-9B6A-580F080EDE8D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DateMe/Models/DateApplicationContext.cs">
+    <Files>
+      <File FileName="DateMe/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="DateMe/Startup.cs" Line="32" Column="71" />
+      <File FileName="DateMe/Controllers/HomeController.cs" Line="9" Column="1" />
+      <File FileName="DateMe/Program.cs" Line="1" Column="1" />
+      <File FileName="DateMe/Models/ApplicationResponse.cs" Line="1" Column="1" />
+      <File FileName="DateMe/Models/DateApplicationContext.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DateMe" expanded="True">
+            <Node name="DateMe" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="DateApplicationContext.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DateMe PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

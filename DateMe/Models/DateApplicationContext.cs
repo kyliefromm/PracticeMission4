@@ -11,6 +11,6 @@ namespace DateMe.Models
         {
             //leave blank for now
         }
-        public DbSet<DateApplicationContext> responses { get; set; }
+        public DbSet<ApplicationResponse> Responses { get; set; }
     }
 }
